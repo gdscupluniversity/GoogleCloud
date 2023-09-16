@@ -15,4 +15,3 @@ ____
 ## In the Google Cloud resource hierarchy, into which entity are resources organized?
 ```Projects```
 ____
-[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)](https://www.youtube.com/@CloudHustlers)
